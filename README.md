@@ -1,4 +1,6 @@
 
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
 Instructions to run this project in your local machine.
 
 **Step 1:** Getting setup with Python
